@@ -1,5 +1,5 @@
 //hello
-//yeboi
+//take 2
 
 
 function isPrime(num) {
